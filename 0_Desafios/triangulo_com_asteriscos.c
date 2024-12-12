@@ -1,11 +1,13 @@
 /* Triangulo invertido com ateriscos */
-#include <stdio.h>
 
 /* ********* */
 /*  ******* */
 /*   ***** */
 /*    *** */
 /*     * */
+
+#include <stdio.h>
+
 int main() {
     int altura;
 
